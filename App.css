@@ -1,0 +1,24 @@
+button{
+  padding: 5px;
+  margin: 4px;
+  margin-top: 10px;
+  box-shadow: 0 0 8px 0  lightblue;
+  border-radius: 5px;
+  color: rgb(11, 11, 71);
+
+  
+}
+input{
+  margin-top: 4%;
+  border-radius: 0.5rem;
+  padding: 5px;
+  width: max-content;
+  background-color: rgb(197, 185, 185);
+  color: white;
+  text-align: right;
+  font-size: medium;
+  font-weight: 600;
+}
+h4{
+  color: rgb(20, 20, 94);
+}
